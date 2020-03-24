@@ -9,6 +9,5 @@ Steps used to create gettingCleaning.txt:
 # Combine train and test datasets
 # Extract only the measurements on the mean and standard deviation for each measurement
 # Make the measurement variable names tidy
-# Create a second tidy dataset with the average of each variable for each activity 
-#   and each subject 
+# Create a second tidy dataset with the average of each variable for each activity and each subject 
 # Export the table
